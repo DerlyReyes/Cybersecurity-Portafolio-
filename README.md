@@ -4,7 +4,7 @@ Hello! 👋 I’m Viviana, an engineer passionate about cybersecurity, with a st
 ---
 
 ### 🌐 Connect with me 
-- [LinkedIn]([linkedin.com/in/derly-reyes-149576204])  
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxZdIgItXTz6V5lIwm8%2B9eQ%3D%3D)  
 - [Correo](mailto:vivianareyescasttle@gmail.com)  
 
 ---
