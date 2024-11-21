@@ -4,8 +4,10 @@ Hello! 👋 I’m Viviana, an engineer passionate about cybersecurity, with a st
 ---
 
 ### 🌐 Connect with me 
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxZdIgItXTz6V5lIwm8%2B9eQ%3D%3D)  
-- [Correo](mailto:vivianareyescasttle@gmail.com)  
+<a href="https://linkedin.com](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxZdIgItXTz6V5lIwm8%2B9eQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vivianareyescasttle@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
