@@ -17,7 +17,7 @@ Hello! 👋 I’m Viviana, an engineer passionate about cybersecurity, with a st
 | **Cybersecurity** | Risk Analysis, SIEM, Intrusion Detection Systems (IDS), Endpoint, IAM |
 | **Program Languages**      | Python, SQL, Bash                       |
 | **Systems**       | Linux (Ubuntu), macOS                  |
-| **Languages**        | Spanish (Native), English (professional) Japanesse (Beginner |
+| **Languages**        | Spanish (Native), English (professional) Japanesse (Beginner) |
 
 ---
 
@@ -39,7 +39,7 @@ Hello! 👋 I’m Viviana, an engineer passionate about cybersecurity, with a st
 
 ### 📂 Featured Projects
 1. **[Análisis de Paquetes con Wireshark](https://github.com/tu-usuario/wireshark-analysis)**  
-   Network traffic exploration and vulnerability detection..  
+   Network traffic exploration and vulnerability detection.   
    
 2. **[Simulación de Ataques Éticos](https://github.com/tu-usuario/ethical-hacking-simulations)**  
    Desarrollo de scripts y técnicas para pruebas de penetración.  
@@ -50,6 +50,6 @@ Hello! 👋 I’m Viviana, an engineer passionate about cybersecurity, with a st
 ---
 
 ### 🌟 About me
-Soy analista en ciberseguridad con una pasión por aprender y crecer constantemente. Mi objetivo es contribuir a proteger los sistemas y datos críticos de las empresas.
+I am a cybersecurity analyst with a strong passion for continuous learning and growth. My goal is to contribute to safeguarding critical systems and data for businesses, families, and, of course, my own.
 
-¿Quieres saber más? ¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/tu-usuario/)! 🚀
+¿Would you like to know moore? ¡Connect with me in [LinkedIn](https://www.linkedin.com/in/tu-usuario/)! 🚀
