@@ -32,20 +32,20 @@ Hello! 👋 I’m Viviana, an engineer passionate about cybersecurity, with a st
 ---
 
 ### 📜 Certifications
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/tu-certificado)  
-- Certificado en **Wireshark Essentials** (pendiente de añadir enlace)  
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/verify/7X75A3VIVCZN)  
+- Certificado en **Wireshark Essentials** 
 
 ---
 
 ### 📂 Featured Projects
-1. **[Análisis de Paquetes con Wireshark](https://github.com/tu-usuario/wireshark-analysis)**  
+1. **[Packet Analysis with Wireshark](https://github.com/tu-usuario/wireshark-analysis)**  
    Network traffic exploration and vulnerability detection.   
    
-2. **[Simulación de Ataques Éticos](https://github.com/tu-usuario/ethical-hacking-simulations)**  
-   Desarrollo de scripts y técnicas para pruebas de penetración.  
+2. **[Ethical Hacking Simulations](https://github.com/tu-usuario/ethical-hacking-simulations)**  
+   Development of scripts and techniques for penetration testing. 
    
-3. **[Seguridad en Bases de Datos con SQL](https://github.com/tu-usuario/sql-security)**  
-   Filtrado de datos sensibles y prevención de inyecciones SQL.  
+3. **[Database Security with SQL](https://github.com/tu-usuario/sql-security)**  
+   Filtering sensitive data and preventing SQL injections.  
 
 ---
 
